@@ -12,7 +12,7 @@ $ mvn tomcat7:run
 ```
 Access ```http://localhost:8080/springrest/customers```
 
-![Spring 4 REST Tutorial](http://img.viralpatel.net/2016/06/spring-4-mvc-rest-controller-service-restful.png)
+![Spring 4 REST Tutorial](http://img.viralpatel.net/2016/06/spring-4-mvc-rest-controller-service-restful.png) 
 
 ###3. To import this project in Eclipse IDE
 1. ```$ mvn eclipse:eclipse```
